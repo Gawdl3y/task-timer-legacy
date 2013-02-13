@@ -3,7 +3,6 @@ This project houses both the Chrome and Android versions of Task Timer, the simp
 
 ## Task Timer on Chrome
 You can add Task Timer to Chrome by downloading it from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/task-timer/aomfjmibjhhfdenfkpaodhnlhkolngif).
-
 Alternatively, you can download one of the release zips in the releases directory and load it as an unpacked extension in Chrome.
 
 ## Task Timer on Android
