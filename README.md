@@ -8,3 +8,6 @@ Alternatively, you can download one of the release zips in the [releases directo
 
 ## Task Timer on Android
 Coming soon, stay tuned!
+
+## Task Timer on the web
+There is a web version of Task Timer, but it is extremely old compared to the Chrome version. It is still usable, though. You can access it [here](http://gawdl3y.github.com/task-timer/timer/).
