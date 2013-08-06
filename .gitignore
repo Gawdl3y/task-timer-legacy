@@ -1,22 +1,23 @@
-# built application files
+# Built stuff
 *.apk
 *.ap_
-
-# files for the dex VM
 *.dex
-
-# Java class files
 *.class
+android/TaskTimer/build/
 
-# generated files
-android/bin/
-android/gen/
-
-# Local configuration file (sdk path, etc)
+# Local configuration file
 local.properties
+
+# IntelliJ/Android Studio project files
+.idea
+*.iml
+*.ipr
+*.iws
 
 # Eclipse project files
 .classpath
 .project
-/android/.settings
 .settings
+
+# Gradle files
+.gradle
