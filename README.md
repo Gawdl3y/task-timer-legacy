@@ -1,4 +1,9 @@
-﻿### Welcome to the Task Timer GitHub project
+﻿### Legacy repository
+This is the old repository for Task Timer. The Chrome and Android versions have been separated into their own repositories, and this one will be left behind.
+
+[Chrome repo](https://github.com/Gawdl3y/task-timer-chrome) | [Android repo](https://github.com/Gawdl3y/task-timer-android)
+
+### Welcome to the Task Timer GitHub project
 This project houses both the Chrome and Android versions of Task Timer, the simple app to keep track of time you spend on "tasks", which can be pretty much anything you want.
 The Android version is currently under development, and will be released soon™.
 
